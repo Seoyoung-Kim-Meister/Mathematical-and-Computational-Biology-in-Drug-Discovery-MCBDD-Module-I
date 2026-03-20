@@ -7,10 +7,10 @@ For my own reference, I record the contents of the lecture here.
 
 # Table of content
 
-Module Zero: Introduction <br>
-Module I: What are drug targets and where to find them?
-Module II: What can we do if there are no good targets?
-Module III: What kind of drug should we develop?
-Module IV: What efficacy and safety profiles can we expect?
-Module V: For which patients will the drug work and how does it work, really?
+Introduction <br>
+Module I: What are drug targets and where to find them? <br>
+Module II: What can we do if there are no good targets? <br>
+Module III: What kind of drug should we develop? <br>
+Module IV: What efficacy and safety profiles can we expect? <br>
+Module V: For which patients will the drug work and how does it work, really? <br>
 
