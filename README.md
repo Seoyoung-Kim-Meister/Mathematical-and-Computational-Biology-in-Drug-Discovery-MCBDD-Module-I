@@ -5,7 +5,7 @@ To collect exercises from the class by Jitao David Zhang (@Accio) at the Univers
 
 For my own reference, I record the contents of the lecture here.
 
-Table of content
+# Table of content
 Is the course the right one for me?
 Pre-course survey
 Overview
