@@ -7,7 +7,7 @@ For my own reference, I record the contents of the lecture here.
 
 # Table of content
 
-Module Zero: Introduction\\
+Module Zero: Introduction <br>
 Module I: What are drug targets and where to find them?
 Module II: What can we do if there are no good targets?
 Module III: What kind of drug should we develop?
