@@ -6,12 +6,8 @@ To collect exercises from the class by Jitao David Zhang (@Accio) at the Univers
 For my own reference, I record the contents of the lecture here.
 
 # Table of content
-Is the course the right one for me?
-Pre-course survey
-Overview
-Assessment
-Syllabus
-Module Zero: Introduction
+
+Module Zero: Introduction\\
 Module I: What are drug targets and where to find them?
 Module II: What can we do if there are no good targets?
 Module III: What kind of drug should we develop?
